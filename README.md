@@ -1,5 +1,9 @@
 # DSD Final Project : COLLECT 
 
+*This is a clone of the original REPO, owned by @snehabanda30*
+
+[Link to original](https://github.com/snehabanda30/dsdfinalproject-#)
+
 ## Introduction
 In **COLLECT**, player must get five points by collecting green circles and avoiding red squares.  
 
